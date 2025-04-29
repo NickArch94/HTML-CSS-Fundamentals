@@ -1,0 +1,52 @@
+h1 {
+    color: #1fb81f;
+}
+
+.html-list {
+      list-style: square;
+}
+
+.css-list {
+    color: #1d94f8;
+    list-style: none;
+}
+
+.center {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.center-list {
+    width: auto;
+    list-style-position: inside;
+    text-align: left;
+    display: inline-block;
+    margin: auto;
+}
+
+.center-list-02 {
+    width: auto;
+    list-style-position: inside;
+    text-align: center;
+    display: inline-block;
+    margin-top: auto;
+}
+
+input, label, textarea {
+    display: block;
+    margin-top: .3em;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid black;
+
+}
+
+button {
+    margin-top: 20px;
+}
